@@ -10,8 +10,7 @@ int main(){
 			
 		}else if(score>=70){
 			printf("C\n");
-			a = 75 - score;
-			printf("%s:%d","to b",a);
+			
 		}
 	}
 	else{
